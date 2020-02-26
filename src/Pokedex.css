@@ -10,8 +10,12 @@
 
 .Pokedex-winner {
     color: #4caf50;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .Pokedex-loser {
     color: #e91e63;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
